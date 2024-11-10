@@ -55,7 +55,7 @@ All models are implemented in TensorFlow on Google Colab, with training conducte
 
 
 ## Results
-
+![Results Graph](Images/unnamed)
 
 This image shows the loss graphs shared across the models. 
 
