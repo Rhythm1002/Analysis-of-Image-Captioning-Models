@@ -2,7 +2,7 @@
 
 _Prakhar Dhyani, Ishita Sharma, Pradeep Singh, Kumar Utsav, Rhythm Narayan_
 
-_Delhi Technological University_
+_-Delhi Technological University_
 
 
 ## Abstract
