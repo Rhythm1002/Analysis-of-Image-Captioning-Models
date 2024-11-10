@@ -67,6 +67,7 @@ All models show a consistent decrease in loss over the epochs, indicating succes
 
 _Results from RESNET model with LSTM in EARLY Fusion_
 ​
+
 _Results from RESNET model with LSTM in LATE Fusion_
 		
 _Results from INCEPTION model with LSTM  in EARLY  Fusion_
