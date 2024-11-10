@@ -55,7 +55,7 @@ All models are implemented in TensorFlow on Google Colab, with training conducte
 
 
 ## Results
-![Results Graph](Images/unnamed)
+![Results Graph](Images/result_image.png)
 
 This image shows the loss graphs shared across the models. 
 
@@ -63,7 +63,8 @@ This image shows the loss graphs shared across the models.
 All models show a consistent decrease in loss over the epochs, indicating successful learning. The rate of decrease is more pronounced in the earlier epochs, which is typical for neural networks as they initially learn at a faster rate and then slow down as they converge. RESNET has better performance compared to VGG and INCEPTION and LATE FUSION gives better results than EARLY FUSION and LSTM outperforms GRU models. It is noted that LATE FUSION takes a longer time to train than EARLY FUSION due to passing of Images and Text features separately as compared to a concatenated pass.
 
 
- 	   	
+![](Images/unnamed.png) ![](Images/dog_running_snow.png) ![](Images/dirt_bike.png)
+
 _Results from RESNET model with LSTM in EARLY Fusion_
 ​
 _Results from RESNET model with LSTM in LATE Fusion_
