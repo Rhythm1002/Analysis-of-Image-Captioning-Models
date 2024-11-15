@@ -99,7 +99,7 @@ All models show a consistent decrease in loss over the epochs, indicating succes
 
 <p align="center"><i>Results from INCEPTION model with GRU in LATE Fusion</i></p> 
 
-<img src="girl_and_mother.png" alt="" width="300" height="200"> <img src="Images/dog_with_man.png" alt="" width="300" height="200"> <img src="Images/girl_in_black.png" alt="" width="300" height="200">
+<img src="Images/girl_and_mother.png" alt="" width="300" height="200"> <img src="Images/dog_with_man.png" alt="" width="300" height="200"> <img src="Images/girl_in_black.png" alt="" width="300" height="200">
   
 <p align="center"><i>Results from VGG model with GRU in LATE Fusion</i></p> 
 
