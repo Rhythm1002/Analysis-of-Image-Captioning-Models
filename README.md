@@ -67,34 +67,44 @@ All models show a consistent decrease in loss over the epochs, indicating succes
 
 <p align="center"><i>Results from RESNET model with LSTM in EARLY Fusion</i></p>
 ​
+<img src="Images/man_climbing_hill.png" alt="" width="300" height="200"><img src="Images/dog_jumping_bar.png" alt="" width="300" height="200"><img src="Images/dog_in_pond.png" alt="" width="300" height="200">
 
 <p align="center"><i>Results from RESNET model with LSTM in LATE Fusion</i></p>
-		
-_Results from INCEPTION model with LSTM  in EARLY  Fusion_
 
-_Results from INCEPTION model with LSTM  in LATE Fusion_ 
+<img src="Images/bike_air.png" alt="" width="300" height="200"> <img src="Images/dog_on_grass.png" alt="" width="300" height="200"> <img src="Images/two_dogs_playing.png" alt="" width="300" height="200">
 
-_Results from VGG model with LSTM  in EARLY Fusion_ 
+<p align="center"><i>Results from INCEPTION model with LSTM  in EARLY  Fusion</i></p>
 
-_Results from VGG model with LSTM  in LATE Fusion_ 
+<img src="Images/children_playing_in_pool.png" alt="" width="300" height="200"> <img src="Images/dog_running_through_grass.png" alt="" width="300" height="200"> <img src="Images/dog_in_yard.png" alt="" width="300" height="200">
 
-_Results from RESNET model with GRU  in EARLY Fusion_
+<p align="center"><i>Results from INCEPTION model with LSTM  in LATE Fusion</i></p> 
 
-_Results from RESNET model with GRU in LATE Fusion_
+<img src="Images/2_dogs_on_track.png" alt="" width="300" height="200"> <img src="Images/man_over_cliff.png" alt="" width="300" height="200"> <img src="Images/bike_on_track.png" alt="" width="300" height="200">
 
+<p align="center"><i>Results from VGG model with LSTM  in EARLY Fusion</i></p>  
 
-_Results from INCEPTION model with GRU in LATE Fusion_
+<img src="Images/dog_on_beach.png" alt="" width="300" height="200"> <img src="Images/man_skiing.png" alt="" width="300" height="200"> <img src="Images/man_with_dogs.png" alt="" width="300" height="200">
 
+<p align="center"><i>Results from VGG model with LSTM  in LATE Fusion</i></p> 
 
+<img src="Images/girl_on_grass.png" alt="" width="300" height="200"> <img src="Images/dogs_on_sand.png" alt="" width="300" height="200"> <img src="Images/dog_bandw.png" alt="" width="300" height="200">
 
+<p align="center"><i>Results from RESNET model with GRU  in EARLY Fusion</i></p> 
 
+<img src="Images/two_girls_posing.png" alt="" width="300" height="200"> <img src="Images/girl_on_swing.png" alt="" width="300" height="200"> <img src="Images/dogs_playing.png" alt="" width="300" height="200">
 
+<p align="center"><i>Results from RESNET model with GRU in LATE Fusion</i></p> 
 
+<img src="Images/girl_with_ball.png" alt="" width="300" height="200"> <img src="Images/man_red_shirt.png" alt="" width="300" height="200"> <img src="Images/man_and_woman.png" alt="" width="300" height="200">
+
+<p align="center"><i>Results from INCEPTION model with GRU in LATE Fusion</i></p> 
+
+<img src="girl_and_mother.png" alt="" width="300" height="200"> <img src="Images/dog_with_man.png" alt="" width="300" height="200"> <img src="Images/girl_in_black.png" alt="" width="300" height="200">
   
-_Results from VGG model with GRU in LATE Fusion_
+<p align="center"><i>Results from VGG model with GRU in LATE Fusion</i></p> 
 
-
+<img src="Images/men_on_bike.png" alt="" width="300" height="200"> <img src="Images/boy_in_yellow.png" alt="" width="300" height="200"> <img src="Images/beach.png" alt="" width="300" height="200">
  
-_Results from VGG model with GRU in EARLY Fusion_
+<p align="center"><i>Results from VGG model with GRU in EARLY Fusion</i></p> 
 
 
